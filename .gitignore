@@ -1,0 +1,69 @@
+################################################################################
+# GIT Ignore
+################################################################################
+
+/Avalon Lords/obj/Debug
+/Avalon Lords/.vs
+/Avalon Lords/UnityVS.Avalon Lords.sln
+/Avalon Lords/UnityVS.Avalon Lords.CSharp.Plugins.csproj
+/Avalon Lords/UnityVS.Avalon Lords.CSharp.Editor.Plugins.csproj
+/Avalon Lords/UnityVS.Avalon Lords.CSharp.Editor.csproj
+/Avalon Lords/UnityVS.Avalon Lords.CSharp.csproj
+/Avalon Lords/Avalon Lords.sln
+/Avalon Lords/Avalon Lords.CSharp.Plugins.csproj
+/Avalon Lords/Avalon Lords.CSharp.Editor.Plugins.csproj
+/Avalon Lords/Avalon Lords.CSharp.Editor.csproj
+/Avalon Lords/Avalon Lords.CSharp.csproj
+/Avalon Lords/Avalon Lords-csharp.sln
+/Avalon Lords/Assembly-UnityScript.unityproj
+/Avalon Lords/Assembly-UnityScript-vs.unityproj
+/Avalon Lords/Assembly-UnityScript-firstpass.unityproj
+/Avalon Lords/Assembly-UnityScript-firstpass-vs.unityproj
+/Avalon Lords/Assembly-UnityScript-Editor.unityproj
+/Avalon Lords/Assembly-UnityScript-Editor-vs.unityproj
+/Avalon Lords/Assembly-CSharp.csproj
+/Avalon Lords/Assembly-CSharp-vs.csproj
+/Avalon Lords/Assembly-CSharp-firstpass.csproj
+/Avalon Lords/Assembly-CSharp-firstpass-vs.csproj
+/Avalon Lords/Assembly-CSharp-Editor.csproj
+/Avalon Lords/Assembly-CSharp-Editor-vs.csproj
+/Avalon Lords/Assembly-CSharp-Editor-firstpass.csproj
+/Avalon Lords/Assembly-CSharp-Editor-firstpass-vs.csproj
+/Avalon Lords/Assembly-Boo.booproj
+/Avalon Lords/Assembly-Boo-vs.booproj
+/Avalon Lords/CSharp60Support/compilation log.txt
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+/Avalon Lords/ProjectSettings/ProjectVersion.txt
+/Avalon Lords/compilation log.txt
+
+/Avalon Lords/Assets/Assembly-CSharp.pidb.meta
